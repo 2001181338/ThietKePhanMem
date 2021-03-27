@@ -1,0 +1,11 @@
+E:\LUUDULIEUSINHVIEN\Nguyen Dinh Thin\Bai4\Bai4\bin\Debug\Bai4.exe.config
+E:\LUUDULIEUSINHVIEN\Nguyen Dinh Thin\Bai4\Bai4\bin\Debug\Bai4.exe
+E:\LUUDULIEUSINHVIEN\Nguyen Dinh Thin\Bai4\Bai4\bin\Debug\Bai4.pdb
+E:\LUUDULIEUSINHVIEN\Nguyen Dinh Thin\Bai4\Bai4\obj\Debug\Bai4.csprojResolveAssemblyReference.cache
+E:\LUUDULIEUSINHVIEN\Nguyen Dinh Thin\Bai4\Bai4\obj\Debug\Bai4.DanhNhap.resources
+E:\LUUDULIEUSINHVIEN\Nguyen Dinh Thin\Bai4\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+E:\LUUDULIEUSINHVIEN\Nguyen Dinh Thin\Bai4\Bai4\obj\Debug\Bai4.csproj.GenerateResource.Cache
+E:\LUUDULIEUSINHVIEN\Nguyen Dinh Thin\Bai4\Bai4\obj\Debug\Bai4.exe
+E:\LUUDULIEUSINHVIEN\Nguyen Dinh Thin\Bai4\Bai4\obj\Debug\Bai4.pdb
+E:\LUUDULIEUSINHVIEN\Nguyen Dinh Thin\Bai4\Bai4\obj\Debug\Bai4.CauHinh_Screen.resources
+E:\LUUDULIEUSINHVIEN\Nguyen Dinh Thin\Bai4\Bai4\obj\Debug\Bai4.FormMain.resources
